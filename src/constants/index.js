@@ -262,6 +262,11 @@ const socialImgs = [
     imgPath: "/images/linkedin.png",
      followUpLink: 'https://www.linkedin.com/in/samiran-chakraborty-6a7816203/'
   },
+  {
+    name:"GitHub",
+    imgPath:"/images/GitHub-Logo.jpg",
+    followUpLink:"https://github.com/samiran634/"
+  }
 ];
 
 export {

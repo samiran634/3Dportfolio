@@ -51,14 +51,14 @@ const Hero = () => {
             </div>
 
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-              Hi, I’m Sam, a developer based in India with a passion for
+              Hi, I’m Sam, a developer from India with a passion for
               code.
             </p>
 
             <Button
               text="See My Work"
               className="md:w-80 md:h-16 w-60 h-12"
-              id="counter"
+              id="work"
             />
           </div>
         </header>
